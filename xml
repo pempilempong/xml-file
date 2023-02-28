@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basketball_shoes>
+	<shoe>
+		<brand>Nike</brand>
+		<model>Nike LeBron 20</model>
+		<colorways>
+			<colorway>
+				<name>Violet Frost/Purple Pulse/Canyon Purple/Metallic Gold</name>
+				<name>Green Apple/Reflect Silver/University Red/Bright Crimson/Blue Chill</name>
+				<name>Barely Green/Multi-color/Medium Soft Pink</name>
+			</colorway>
+		</colorways>
+		<sizes>
+			<size>
+				<name>US Men's</name>
+				<values>
+					<value>8</value>
+					<value>8.5</value>
+					<value>9</value>
+					<value>9.5</value>
+					<value>10</value>
+				</values>
+			</size>
+		</sizes>
+		<price>$200</price>
+	</shoe>
+	<shoe>
+		<brand>Adidas</brand>
+		<model>Adidas Harden Vol. 5</model>
+		<colorways>
+			<colorway>
+				<name>Team Power Red/Team Maroon/Solar Red</name>
+				<name>Team Navy/Cloud White/Vivid Red</name>
+				<name>Solar Red/Cloud White/Royal Blue</name>
+			</colorway>
+		</colorways>
+		<sizes>
+			<size>
+				<name>US Men's</name>
+				<values>
+					<value>8</value>
+					<value>8.5</value>
+					<value>9</value>
+					<value>9.5</value>
+					<value>10</value>
+				</values>
+			</size>
+		</sizes>
+		<price>$129</price>
+	</shoe>
+  <shoe>
+		<brand>Under Armour</brand>
+		<model>Under Armour Curry 9</model>
+		<colorways>
+			<colorway>
+				<name>Tropic Pink/White</name>
+				<name>Electro Pink/Fresco Blue</name>
+				<name>Midnight Navy / Orange</name>
+			</colorway>
+		</colorways>
+		<sizes>
+			<size>
+				<name>US Men's</name>
+				<values>
+					<value>8</value>
+					<value>8.5</value>
+					<value>9</value>
+					<value>9.5</value>
+					<value>10</value>
+				</values>
+			</size>
+		</sizes>
+		<price>$160</price>
+	</shoe>
+  <shoe>
+		<brand>Li-Ning</brand>
+		<model>Li-Ning Way of Wade 10</model>
+		<colorways>
+			<colorway>
+				<name>Mint</name>
+				<name>Blossom</name>
+				<name>Lavender</name>
+			</colorway>
+		</colorways>
+		<sizes>
+			<size>
+				<name>US Men's</name>
+				<values>
+					<value>8</value>
+					<value>8.5</value>
+					<value>9</value>
+					<value>9.5</value>
+					<value>10</value>
+				</values>
+			</size>
+		</sizes>
+		<price>$181</price>
+	</shoe>
+  <shoe>
+		<brand>New Balance</brand>
+		<model>New Balance Kawhi 2</model>
+		<colorways>
+			<colorway>
+				<name>Gray Mist/Pale gold</name>
+				<name>White/Blue/Orange</name>
+				<name>Black / White</name>
+			</colorway>
+		</colorways>
+		<sizes>
+			<size>
+				<name>US Men's</name>
+				<values>
+					<value>8</value>
+					<value>8.5</value>
+					<value>9</value>
+					<value>9.5</value>
+					<value>10</value>
+				</values>
+			</size>
+		</sizes>
+		<price>$$159</price>
+	</shoe>
+</basketball_shoes>
